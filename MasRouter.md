@@ -85,7 +85,8 @@
 
 输出：一个**智能调度器（Router）**
 
-![](C:\Users\LR\AppData\Roaming\marktext\images\2026-05-02-10-40-26-image.png)
+<img width="1098" height="597" alt="image" src="https://github.com/user-attachments/assets/ac73c825-23f3-4df0-b558-406a2317a578" />
+
 
 **1.Materials（输入）**
 

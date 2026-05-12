@@ -1,4 +1,4 @@
-# Beyond Frameworks: Unpacking Collaboration Strategies in Multi-Agent Systems
+<img width="1116" height="1062" alt="image" src="https://github.com/user-attachments/assets/6e34fbff-7bc3-4b0d-9580-1b16d93dae0a" /># Beyond Frameworks: Unpacking Collaboration Strategies in Multi-Agent Systems
 
 ACL 2025
 
@@ -82,10 +82,6 @@ ACL 2025
 - instructor统一总结
 
 👉 本质：信息充分 vs 计算成本
-
-![](C:\Users\LR\AppData\Roaming\marktext\images\2026-05-11-10-27-18-image.png)
-
-![](C:\Users\LR\AppData\Roaming\marktext\images\2026-05-01-11-15-27-image.png)
 
 ---
 

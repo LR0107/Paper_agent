@@ -179,9 +179,7 @@ https://www.anthropic.com/engineering/building-effective-agents
 
 # Agent 自主执行逻辑
 
-流程：
-
-**明确目标 → 自主规划 → 循环执行 → 获取反馈 → 动态调整**
+流程：**明确目标 → 自主规划 → 循环执行 → 获取反馈 → 动态调整**
 
 Agent 在调用工具时会获得真实环境反馈，并基于反馈调整后续计划。
 

@@ -20,7 +20,8 @@ Skill 就是一个包含 **SKILL.md** 文件的目录。该文件必须以 YAML 
 
 在下面展示的 PDF 技能中，**SKILL.md** 文件引用了两个额外文件（**reference.md** 和 **forms.md**），这是与**SKILL.md** 一起捆绑的。Claude 仅在填写表单时才会读取 **forms.md**。
 
-![](file://C:\Users\LR\AppData\Roaming\marktext\images\2026-05-16-11-04-43-image.png?msec=1778900683917)
+<img width="1113" height="726" alt="image" src="https://github.com/user-attachments/assets/083e311c-9011-4519-8f63-c6195b598b5c" />
+
 
 渐进式信息披露是使 Agent Skills 灵活且可扩展的核心设计原则。就像一本结构清晰的手册，先有目录，然后是具体章节，最后才是详细附录，技能允许 Claude **仅在需要时加载信息**。
 
@@ -38,8 +39,8 @@ Skill 就是一个包含 **SKILL.md** 文件的目录。该文件必须以 YAML 
 这种机制使得 Agent 只把相关技能内容纳入上下文，避免过度占用 token。
 
 PDF 技能包含一个预编写的 Python 脚本，用于读取 PDF 并提取所有表单字段。Claude 可以执行这个脚本，而无需将脚本或 PDF 加载到上下文中。由于代码具有确定性，这种工作流程能够保持一致且可重复。
+<img width="1119" height="567" alt="image" src="https://github.com/user-attachments/assets/5c8d2aef-bb7a-4f16-bc15-9df9f64d9df2" />
 
-![](file://C:\Users\LR\AppData\Roaming\marktext\images\2026-05-16-11-14-00-image.png?msec=1778901240921)
 
 Skill 不仅仅是说明性文本，还可以包含可执行代码：
 

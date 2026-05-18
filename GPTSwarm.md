@@ -97,7 +97,8 @@ REINFORCE 策略梯度：随机采样图 → 执行任务 → 得到 reward → 
 - **下一轮执行**：用优化后的节点/边再次执行任务，收集新的性能数据。
 - **重复迭代**：不断循环，直到性能收敛或达到预定指标。
 
-![](C:\Users\LR\AppData\Roaming\marktext\images\2026-05-18-20-56-35-image.png)
+<img width="1470" height="710" alt="image" src="https://github.com/user-attachments/assets/315cb122-92d7-4c74-a490-77f6f8f233af" />
+
 
 ---
 

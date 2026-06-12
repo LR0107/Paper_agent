@@ -1,6 +1,6 @@
 # ZEP: A Temporal Knowledge Graph Architecture for Agent Memory
 
-设计了一种基于**时间感知知识图谱（Temporal Knowledge Graph）**的记忆架构，让 AI 能像人一样形成长期记忆。
+设计了一种基于时间感知知识图谱（Temporal Knowledge Graph）的记忆架构，让 AI 能像人一样形成长期记忆。
 
 ## 一、研究背景
 
